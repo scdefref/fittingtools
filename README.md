@@ -1,5 +1,7 @@
 # fittingtools 使用帮助
 
+## 公众号:抹茶紫薯
+
 **在线链接**：[https://scdefref.github.io/fittingtools/](https://scdefref.github.io/fittingtools/)
 
 ---
